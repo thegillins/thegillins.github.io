@@ -6,8 +6,6 @@ Hi, we're Alison Gilbreath and Patrick Collins, together we're The Gillins!  Ali
 
 ![Alison and Patrick](/images/AlisonAndPatrick.JPG)
 
-<img src="/images/AlisonAndPatrick.JPG">
-
 # House-sitting
 
 We're a pair of House-sitters Extraordinaire
