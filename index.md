@@ -10,5 +10,5 @@ Hi, we're Alison Gilbreath and Patrick Collins, together we're The Gillins!  Ali
 
 We're a pair of House-sitters Extraordinaire
 
-Professional, Committed, Compassionate Pet and Home Care
+Professional, Committed, Compassionate Pet and Home Care.
 Your pets... Our passion 
