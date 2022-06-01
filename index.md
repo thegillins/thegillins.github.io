@@ -2,4 +2,4 @@
 title: The Gillins
 ---
 
-First draft of home page
+Hi, we're Alison Gilbreath and Patrick Collins, together we're The Gillins!
