@@ -1,3 +1,12 @@
 title: The Gillins
 description: Personal website of Alison Gilbreath and Patrick Collins
+blog_theme: light # Or use dark
+name: The Gillins
+paginate: 25
+url: https://thegillins.com
+plugins:
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jemoji
 remote_theme: nielsenramon/chalk
