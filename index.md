@@ -2,14 +2,10 @@
 title: The Gillins
 ---
 
-Hi, we're Alison Gilbreath and Patrick Collins, together we're The Gillins!  Alison is a native of Wisconsin, Patrick was born in England and raised in South Africa.
-
-![Alison and Patrick](/images/AlisonAndPatrick.JPG)
 ![pet collage](/images/pet-collage.jpeg)
 
-# House-sitting
+Hi, we're Alison Gilbreath and Patrick Collins, together we're The Gillins!  Alison is a native of Wisconsin, Patrick was born in England and raised in South Africa.  We wed in 2021, and since then we've been travelling and house-sitting together.
 
-We're a pair of House-sitters Extraordinaire
+![Alison and Patrick](/images/AlisonAndPatrick.JPG)
 
-Professional, Committed, Compassionate Pet and Home Care.
-Your pets... Our passion 
+We have looked after homes and pets in Wisconsin, Colorado and New Mexico.  We're always looking forward to provide professional, committed and compassionate pet and home care.  Your pets... Our passion.
